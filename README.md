@@ -6,5 +6,3 @@ First, I downloaded the data from the Natural Earth site. Under "Admin 0 - Count
 Unzip the file and put the .shp file somewhere convenient.
 
 Run the scripts in the text file in R.
-
-Example result:
