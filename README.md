@@ -8,5 +8,3 @@ Unzip the file and put the .shp file somewhere convenient.
 Run the scripts in the text file in R.
 
 Example result:
-[[https://pbs.twimg.com/media/DvIXwC4XgAIaoqf.jpg:large]]
-
